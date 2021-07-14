@@ -61,14 +61,69 @@
     }
   ],
   "targetAudience": {
-    "UG": ["Under Graduate students of Computer Science, Electronics, Information Technology and Design"],
-    "PG": ["Post Graduate students of Computer Science, Electronics, Information Technology and Design"]
+    "UG": [
+      "Under Graduate students of Computer Science, Electronics, Information Technology and Design"
+    ],
+    "PG": [
+      "Post Graduate students of Computer Science, Electronics, Information Technology and Design"
+    ]
   },
   "objective": "The experiments are aimed at understanding Laws of interaction such as Fitts' and Hick's laws that are useful in explaining human interactive behavior and the resulting designing heuristics for display screens and some experiments are deal with Visual aspects such as aesthetics, colour form & grids which define the layout of content on GUIs, provides an experience of designing control panels of instruments and products by configuring virtual prototypes of the panels.",
   "courseAlignment": {
     "description": "The lab contents are chosen such that it covers the syllabi of Creative Design, Prototyping & Experiential Lab",
-    "universities": [
-      "IIT Guwahati"
-    ]
+    "universities": ["IIT Guwahati"]
   },
+  "version": "v1.0.0",
+  "exp_name": "Prototyping of TV Remote Control Panel",
+  "exp_short_name": "prototyping-tv-remote",
+  "production": true,
+  "current_item": {
+    "item": "feedback",
+    "target": "feedback.html",
+    "label": "Feedback"
+  },
+  "menu": [
+    {
+      "item": "aim",
+      "target": "index.html",
+      "source": "aim.md",
+      "label": "Aim"
+    },
+    {
+      "item": "theory",
+      "target": "theory.html",
+      "source": "theory.md",
+      "label": "Theory"
+    },
+    {
+      "item": "pretest",
+      "target": "pretest.html",
+      "source": "pretest.js",
+      "label": "Pre Test"
+    },
+    {
+      "item": "procedure",
+      "target": "procedure.html",
+      "source": "procedure.md",
+      "label": "Procedure"
+    },
+    {
+      "item": "simulation",
+      "target": "simulation.html",
+      "label": "Simulation"
+    },
+    {
+      "item": "posttest",
+      "target": "posttest.html",
+      "source": "posttest.js",
+      "label": "Post Test"
+    },
+    {
+      "item": "references",
+      "target": "references.html",
+      "source": "references.md",
+      "label": "References"
+    },
+    { "item": "feedback", "target": "feedback.html", "label": "Feedback" }
+  ]
 }
