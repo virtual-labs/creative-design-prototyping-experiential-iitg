@@ -73,7 +73,7 @@
     "description": "The lab contents are chosen such that it covers the syllabi of Creative Design, Prototyping & Experiential Lab",
     "universities": ["IIT Guwahati"]
   },
-  "version": "v1.1.0",
+  "version": "v1.2.0",
   "exp_name": "Prototyping of TV Remote Control Panel",
   "exp_short_name": "prototyping-tv-remote",
   "production": true,
