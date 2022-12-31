@@ -3,7 +3,6 @@
     "name": "Computer Science and Engineering",
     "link": "https://www.vlab.co.in/broad-area-computer-science-and-engineering"
   },
-  "escapeCharOnFlag": "true",
   "lab": "Creative Design, Prototyping & Experiential Lab",
   "lab_display_name": "Creative Design, Prototyping & Experiential Lab",
   "deployLab": true,
@@ -75,7 +74,7 @@
     "description": "The lab contents are chosen such that it covers the syllabi of Creative Design, Prototyping & Experiential Lab",
     "universities": ["IIT Guwahati"]
   },
-  "version": "v1.7.0",
+  "version": "v1.8.0",
   "exp_name": "Prototyping of TV Remote Control Panel",
   "exp_short_name": "prototyping-tv-remote",
   "production": true,
