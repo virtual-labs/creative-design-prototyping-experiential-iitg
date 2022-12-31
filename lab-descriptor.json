@@ -6,6 +6,7 @@
   "lab": "Creative Design, Prototyping & Experiential Lab",
   "lab_display_name": "Creative Design, Prototyping & Experiential Lab",
   "deployLab": true,
+  "escapeCharOnFlag": "true",
   "phase": 3,
   "collegeName": "IITG",
   "baseUrl": "cpe-iitg.vlabs.ac.in",
@@ -74,7 +75,7 @@
     "description": "The lab contents are chosen such that it covers the syllabi of Creative Design, Prototyping & Experiential Lab",
     "universities": ["IIT Guwahati"]
   },
-  "version": "v1.3.0",
+  "version": "v1.4.0",
   "exp_name": "Prototyping of TV Remote Control Panel",
   "exp_short_name": "prototyping-tv-remote",
   "production": true,
