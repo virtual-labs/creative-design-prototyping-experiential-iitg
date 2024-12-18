@@ -16,7 +16,7 @@
       "name": "Serial Position Effect",
       "short-name": "serial-position-effect",
       "repo": "https://github.com/virtual-labs/exp-serial-position-effect-iitg",
-      "tag": "v1.0.0",
+      "tag": "v1.0.1",
       "deploy": true
     },
     {
