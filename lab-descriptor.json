@@ -23,7 +23,7 @@
       "name": "Weber's Law",
       "short-name": "webers-law",
       "repo": "https://github.com/virtual-labs/exp-webers-law-iitg",
-      "tag": "v1.0.0",
+      "tag": "v1.0.1",
       "deploy": true
     },
     {
@@ -73,7 +73,9 @@
   "objective": "The experiments are aimed at understanding Laws of interaction such as Fitts' and Hick's laws that are useful in explaining human interactive behavior and the resulting designing heuristics for display screens and some experiments are deal with Visual aspects such as aesthetics, colour form & grids which define the layout of content on GUIs, provides an experience of designing control panels of instruments and products by configuring virtual prototypes of the panels.",
   "courseAlignment": {
     "description": "The lab contents are chosen such that it covers the syllabi of Creative Design, Prototyping & Experiential Lab",
-    "universities": ["IIT Guwahati"]
+    "universities": [
+      "IIT Guwahati"
+    ]
   },
   "version": "v1.9.0",
   "exp_name": "Prototyping of TV Remote Control Panel",
@@ -126,6 +128,10 @@
       "source": "references.md",
       "label": "References"
     },
-    { "item": "feedback", "target": "feedback.html", "label": "Feedback" }
+    {
+      "item": "feedback",
+      "target": "feedback.html",
+      "label": "Feedback"
+    }
   ]
 }
